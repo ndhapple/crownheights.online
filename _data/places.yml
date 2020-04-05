@@ -6,7 +6,17 @@ open:
     phone: (718) 218-3300
     notes: Available for takeout
     delivery:
-      seamless: https://www.trycaviar.com/m/barboncino-5764
+      caviar: https://www.trycaviar.com/m/barboncino-5764
+    last_updated: 4/4
+
+  - name: Bien Cuit
+    url: https://www.biencuit.com/
+    instagram: https://www.instagram.com/biencuit/
+    hours:  7am - 8pm Every day
+    phone: 347-365-1656
+    notes: Available for contactless pickup or delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/bien-cuit-721-franklin-ave-brooklyn/2031114
     last_updated: 4/4
 
 
