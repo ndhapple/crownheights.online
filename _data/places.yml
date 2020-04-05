@@ -9,6 +9,16 @@ open:
       seamless: https://www.trycaviar.com/m/barboncino-5764
     last_updated: 4/4
 
+  - name: Café Rue Dix
+    url: https://www.caferuedix.com
+    instagram: https://www.instagram.com/caferuedix/
+    hours: 12pm - 9pm
+    phone: (929) 234-2543
+    notes: Happy Hour on weekends 4pm - 7pm
+    delivery:
+      caviar: https://www.trycaviar.com/m/cafe-rue-dix-11674
+    last_updated: 4/5
+
 
 closed:
   - name: Chavela's
