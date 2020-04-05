@@ -11,6 +11,23 @@ open:
 
 
 closed:
+  - name: Chavela's
+    url: http://chavelasnyc.com/home/
+    instagram: https://www.instagram.com/chavelasnyc/
+    delivery:
+      chownow: https://direct.chownow.com/order/5241/locations
+    notes: Closed until further notice
+    last_updated: 4/5
+
+  - name: Catfish
+    url:
+    instagram: https://www.instagram.com/catfishnyc/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://l.instagram.com/?u=https%3A%2F%2Fwww.gofundme.com%2Ff%2Fcatfish-emergency-tip-jar&e=ATMpPU2i0Dbbe-7pvJOEjVyX1wZU78DxQol_f15FWj7j4pxKA4ixNG-Rmib-EP0P2oN9krB6&s=1
+    last_updated: 4/5
+
 #   - name: Alta Calidad
 #     url: https://altacalidadbk.com
 #     instagram: https://www.instagram.com/altacalidadbk/
@@ -29,4 +46,3 @@ closed:
 #       - title: Gift cards
 #         url: https://www.toasttab.com/alta-calidad/giftcards
 #     last_updated: 3/25
-
