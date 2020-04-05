@@ -7,7 +7,7 @@ open:
     notes: Available for takeout
     delivery:
       caviar: https://www.trycaviar.com/m/barboncino-5764
-    last_updated: 4/4
+    last_updated: 4/5
 
   - name: Bien Cuit
     url: https://www.biencuit.com/
@@ -18,6 +18,15 @@ open:
     delivery:
       seamless: https://www.seamless.com/menu/bien-cuit-721-franklin-ave-brooklyn/2031114
     last_updated: 4/4
+
+  - name: Black Nile
+    url: https://blacknilerestaurant.com
+    instagram: https://www.instagram.com/blacknilerestaurant
+    hours: 3pm - 9pm (Tue - Thu), 1pm - 9pm (Fri - Sat), 1pm - 8pm (Sun)
+    phone: (347) 879-8911
+    delivery:
+      seamless: https://www.seamless.com/menu/black-nile-seafood--soul-food-592-nostrand-ave-brooklyn/805511
+    last_updated: 4/5
 
   - name: Café Rue Dix
     url: https://www.caferuedix.com
@@ -39,6 +48,17 @@ open:
       caviar: https://www.trycaviar.com/m/king-tai-20441
     last_updated: 4/5
 
+  - name: Uotora
+    url: https://www.uotorabk.com
+    instagram: https://www.instagram.com/uotorabk/
+    hours: 4pm - 9pm (Tue - Sat), 4pm - 8pm (Sun)
+    phone: (718) 513-0724
+    notes: Available for take-out only
+    links:
+      - title: Take-out menu
+        url: https://5a02bf91-4aa2-430b-b95a-c677351f049b.filesusr.com/ugd/9d40ad_58e77c1734ea46c69ecdb5213ed74dcd.pdf
+    last_updated: 4/5
+
 closed:
   - name: Chavela's
     url: http://chavelasnyc.com/home/
@@ -47,12 +67,18 @@ closed:
     last_updated: 4/5
 
   - name: Catfish
-    url:
+    url: http://www.catfishnyc.com
     instagram: https://www.instagram.com/catfishnyc/
     notes: Closed until further notice
     links:
       - title: Staff relief fund
         url: https://l.instagram.com/?u=https%3A%2F%2Fwww.gofundme.com%2Ff%2Fcatfish-emergency-tip-jar&e=ATMpPU2i0Dbbe-7pvJOEjVyX1wZU78DxQol_f15FWj7j4pxKA4ixNG-Rmib-EP0P2oN9krB6&s=1
+    last_updated: 4/5
+
+  - name: Güeros Brooklyn
+    url: http://www.guerosbrooklyn.com
+    instagram: https://www.instagram.com/guerosbklyn/
+    notes: Closed until further notice
     last_updated: 4/5
 
 #   - name: Alta Calidad
