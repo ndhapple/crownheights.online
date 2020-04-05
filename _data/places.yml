@@ -6,7 +6,7 @@ open:
     phone: (718) 218-3300
     notes: Available for takeout
     delivery:
-      seamless: https://www.trycaviar.com/m/barboncino-5764
+      caviar: https://www.trycaviar.com/m/barboncino-5764
     last_updated: 4/4
 
   - name: Black Nile
@@ -69,7 +69,7 @@ closed:
     url: http://www.guerosbrooklyn.com
     instagram: https://www.instagram.com/guerosbklyn/
     notes: Closed until further notice
-    last_updated: 4/5 
+    last_updated: 4/5
 
 #   - name: Alta Calidad
 #     url: https://altacalidadbk.com
