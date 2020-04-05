@@ -19,6 +19,15 @@ open:
       caviar: https://www.trycaviar.com/m/cafe-rue-dix-11674
     last_updated: 4/5
 
+  - name: King Tai
+    url: https://www.kingtaibar.com
+    instagram: https://www.instagram.com/p/B-kGKk4DzbK/
+    hours: Vary widely, posted on Instagram daily
+    phone: (718) 513-1025
+    notes: Also open for contactless pick up
+    delivery:
+      caviar: https://www.trycaviar.com/m/king-tai-20441
+    last_updated: 4/5
 
 closed:
   - name: Chavela's
