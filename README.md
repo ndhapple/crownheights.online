@@ -8,7 +8,7 @@ This website is built using [Jekyll](https://jekyllrb.com) and [Tachyons](http:/
 
 Content is all managed within `_data/places.yml`.
 
-An (incomplete) list of businesses to potentially add can be found [on this wiki page](https://github.com/nt591/prospectheightsbk.com/wiki).
+An (incomplete) list of businesses to potentially add can be found [on this wiki page](https://github.com/SamTheGeek/crownheights.online/wiki).
 
 # License
 

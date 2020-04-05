@@ -6,11 +6,131 @@ open:
     phone: (718) 218-3300
     notes: Available for takeout
     delivery:
-      seamless: https://www.trycaviar.com/m/barboncino-5764
+      caviar: https://www.trycaviar.com/m/barboncino-5764
+    last_updated: 4/5
+
+  - name: Bien Cuit
+    url: https://www.biencuit.com/
+    instagram: https://www.instagram.com/biencuit/
+    hours:  7am - 8pm Every day
+    phone: 347-365-1656
+    notes: Available for contactless pickup or delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/bien-cuit-721-franklin-ave-brooklyn/2031114
     last_updated: 4/4
+
+  - name: Black Nile
+    url: https://blacknilerestaurant.com
+    instagram: https://www.instagram.com/blacknilerestaurant
+    hours: 3pm - 9pm (Tue - Thu), 1pm - 9pm (Fri - Sat), 1pm - 8pm (Sun)
+    phone: (347) 879-8911
+    delivery:
+      seamless: https://www.seamless.com/menu/black-nile-seafood--soul-food-592-nostrand-ave-brooklyn/805511
+    last_updated: 4/5
+
+  - name: Café Rue Dix
+    url: https://www.caferuedix.com
+    instagram: https://www.instagram.com/caferuedix/
+    hours: 12pm - 9pm
+    phone: (929) 234-2543
+    notes: Happy Hour on weekends 4pm - 7pm
+    delivery:
+      caviar: https://www.trycaviar.com/m/cafe-rue-dix-11674
+    last_updated: 4/5
+
+  - name: Hunky Dory
+    url: https://www.hunkydorybk.com
+    instagram: https://www.instagram.com/hunkydorybk/
+    hours: Fridays, place orders by Thursday at Midnight
+    notes: No contact, pre-order delivery only. See Instagram for details.
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/help-our-hunkys
+    last_updated: 4/5
+
+  - name: King Tai
+    url: https://www.kingtaibar.com
+    instagram: https://www.instagram.com/p/B-kGKk4DzbK/
+    hours: Vary widely, posted on Instagram daily
+    phone: (718) 513-1025
+    notes: Also open for contactless pick up
+    delivery:
+      caviar: https://www.trycaviar.com/m/king-tai-20441
+    last_updated: 4/5
+
+  - name: Uotora
+    url: https://www.uotorabk.com
+    instagram: https://www.instagram.com/uotorabk/
+    hours: 4pm - 9pm (Tue - Sat), 4pm - 8pm (Sun)
+    phone: (718) 513-0724
+    notes: Available for take-out only
+    links:
+      - title: Take-out menu
+        url: https://5a02bf91-4aa2-430b-b95a-c677351f049b.filesusr.com/ugd/9d40ad_58e77c1734ea46c69ecdb5213ed74dcd.pdf
+    last_updated: 4/5
+
+  - name: Taqueria Milear
+    url: https://www.taqueriamilear.com/
+    instagram: https://www.instagram.com/taqueriamilear/?hl=en
+    hours: Sun - Thurs 11-10 p.m. Fri & Sat 11-11 p.m.
+    phone: (718) 484-8005
+    notes: Available for take-out and delivery
+    delivery:
+      caviar: https://www.trycaviar.com/m/taqueria-milear-10791
+      seamless: https://www.seamless.com/menu/taqueria-milear-752-nostrand-ave-ste-a-brooklyn/308352
+    last_updated: 4/5
+
+  - name: Brookyln Pizza Crew
+    url: https://brooklynpizzacrew.com/
+    instagram: https://www.instagram.com/brooklynpizzacrew/
+    hours: Sun - Wednesday 11:30AM-10 p.m. Thursday 11:30am - 11PM. Friday - Saturday 11:30am to midnight
+    phone: (718) 363-1122
+    notes: Available for delivery confirmed
+    delivery:
+      seamless: https://www.seamless.com/menu/brooklyn-pizza-crew-758-nostrand-ave-brooklyn/347029
+    last_updated: 4/5
+
+  - name: Meme's Healthy Nibbles
+    hours: Monday - Saturday 8am - 9PM, Sunday 8am - 6pm
+    phone: (718) 493-1375
+    notes: Available for delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/memes-healthy-nibbles-707-nostrand-ave-brooklyn/301411
+    last_updated: 4/5
 
 
 closed:
+  - name: Babydudes
+    instagram: https://www.instagram.com/babydudes/?hl=en
+    notes: Closed until further notice
+    last_updated: 4/5
+
+  - name: Chavela's
+    url: http://chavelasnyc.com/home/
+    instagram: https://www.instagram.com/chavelasnyc/
+    notes: Closed until further notice
+    last_updated: 4/5
+
+  - name: Catfish
+    url: http://www.catfishnyc.com
+    instagram: https://www.instagram.com/catfishnyc/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://l.instagram.com/?u=https%3A%2F%2Fwww.gofundme.com%2Ff%2Fcatfish-emergency-tip-jar&e=ATMpPU2i0Dbbe-7pvJOEjVyX1wZU78DxQol_f15FWj7j4pxKA4ixNG-Rmib-EP0P2oN9krB6&s=1
+    last_updated: 4/5
+
+  - name: Güeros Brooklyn
+    url: http://www.guerosbrooklyn.com
+    instagram: https://www.instagram.com/guerosbklyn/
+    notes: Closed until further notice
+    last_updated: 4/5
+
+  - name: Mayfield
+    url: https://www.mayfieldbk.com
+    notes: Closed until further notice
+    last_updated: 4/5
+
 #   - name: Alta Calidad
 #     url: https://altacalidadbk.com
 #     instagram: https://www.instagram.com/altacalidadbk/
@@ -29,4 +149,3 @@ closed:
 #       - title: Gift cards
 #         url: https://www.toasttab.com/alta-calidad/giftcards
 #     last_updated: 3/25
-
