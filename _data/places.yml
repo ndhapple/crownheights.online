@@ -70,6 +70,25 @@ open:
       seamless: https://www.seamless.com/menu/taqueria-milear-752-nostrand-ave-ste-a-brooklyn/308352
     last_updated: 4/5
 
+  - name: Brookyln Pizza Crew
+    url: https://brooklynpizzacrew.com/
+    instagram: https://www.instagram.com/brooklynpizzacrew/
+    hours: Sun - Wednesday 11:30AM-10 p.m. Thursday 11:30am - 11PM. Friday - Saturday 11:30am to midnight
+    phone: (718) 363-1122
+    notes: Available for delivery confirmed
+    delivery:
+      seamless: https://www.seamless.com/menu/brooklyn-pizza-crew-758-nostrand-ave-brooklyn/347029
+    last_updated: 4/5
+
+  - name: Meme's Healthy Nibbles
+    hours: Monday - Saturday 8am - 9PM, Sunday 8am - 6pm
+    phone: (718) 493-1375
+    notes: Available for delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/memes-healthy-nibbles-707-nostrand-ave-brooklyn/301411
+    last_updated: 4/5
+
+
 closed:
   - name: Chavela's
     url: http://chavelasnyc.com/home/
@@ -89,6 +108,11 @@ closed:
   - name: Güeros Brooklyn
     url: http://www.guerosbrooklyn.com
     instagram: https://www.instagram.com/guerosbklyn/
+    notes: Closed until further notice
+    last_updated: 4/5
+
+  - name: Babydudes
+    instagram: https://www.instagram.com/babydudes/?hl=en
     notes: Closed until further notice
     last_updated: 4/5
 
