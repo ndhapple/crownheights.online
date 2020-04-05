@@ -48,13 +48,19 @@ closed:
     last_updated: 4/5
 
   - name: Catfish
-    url:
+    url: http://www.catfishnyc.com
     instagram: https://www.instagram.com/catfishnyc/
     notes: Closed until further notice
     links:
       - title: Staff relief fund
         url: https://l.instagram.com/?u=https%3A%2F%2Fwww.gofundme.com%2Ff%2Fcatfish-emergency-tip-jar&e=ATMpPU2i0Dbbe-7pvJOEjVyX1wZU78DxQol_f15FWj7j4pxKA4ixNG-Rmib-EP0P2oN9krB6&s=1
     last_updated: 4/5
+
+  - name: Güeros Brooklyn
+    url: http://www.guerosbrooklyn.com
+    instagram: https://www.instagram.com/guerosbklyn/
+    notes: Closed until further notice
+    last_updated: 4/5 
 
 #   - name: Alta Calidad
 #     url: https://altacalidadbk.com
