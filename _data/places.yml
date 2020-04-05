@@ -9,6 +9,15 @@ open:
       seamless: https://www.trycaviar.com/m/barboncino-5764
     last_updated: 4/4
 
+  - name: Black Nile
+    url: https://blacknilerestaurant.com
+    instagram: https://www.instagram.com/blacknilerestaurant
+    hours: 3pm - 9pm (Tue - Thu), 1pm - 9pm (Fri - Sat), 1pm - 8pm (Sun)
+    phone: (347) 879-8911
+    delivery:
+      seamless: https://www.seamless.com/menu/black-nile-seafood--soul-food-592-nostrand-ave-brooklyn/805511
+    last_updated: 4/5
+
   - name: Café Rue Dix
     url: https://www.caferuedix.com
     instagram: https://www.instagram.com/caferuedix/
