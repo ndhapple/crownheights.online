@@ -29,6 +29,17 @@ open:
       caviar: https://www.trycaviar.com/m/king-tai-20441
     last_updated: 4/5
 
+  - name: Uotora
+    url: https://www.uotorabk.com
+    instagram: https://www.instagram.com/uotorabk/
+    hours: 4pm - 9pm (Tue - Sat), 4pm - 8pm (Sun)
+    phone: (718) 513-0724
+    notes: Available for take-out only
+    links:
+      - title: Take-out menu
+        url: https://5a02bf91-4aa2-430b-b95a-c677351f049b.filesusr.com/ugd/9d40ad_58e77c1734ea46c69ecdb5213ed74dcd.pdf
+    last_updated: 4/5
+
 closed:
   - name: Chavela's
     url: http://chavelasnyc.com/home/
