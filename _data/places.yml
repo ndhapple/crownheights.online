@@ -38,6 +38,16 @@ open:
       caviar: https://www.trycaviar.com/m/cafe-rue-dix-11674
     last_updated: 4/5
 
+  - name: Hunky Dory
+    url: https://www.hunkydorybk.com
+    instagram: https://www.instagram.com/hunkydorybk/
+    hours: Fridays, place orders by Thursday at Midnight
+    notes: No contact, pre-order delivery only. See Instagram for details.
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/help-our-hunkys
+    last_updated: 4/5
+
   - name: King Tai
     url: https://www.kingtaibar.com
     instagram: https://www.instagram.com/p/B-kGKk4DzbK/
